@@ -12,3 +12,4 @@
 10. Storing in local storage
 11. Edit Todo
 12. Drag todo
+13. Monitor speed of every action
