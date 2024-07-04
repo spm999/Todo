@@ -8,8 +8,9 @@
 6. Debouncing
 7. Throttling
 8. Sorting (BY date, name, Importance)
-9. Delete all selected
+9. Delete all selected(Single and Multi delete)
 10. Storing in local storage
 11. Edit Todo
 12. Drag todo
 13. Monitor speed of every action
+
