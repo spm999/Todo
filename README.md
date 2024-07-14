@@ -12,5 +12,5 @@
 10. Storing in local storage
 11. Edit Todo
 12. Drag todo
-13. Monitor speed of every action
-
+13. Monitor the speed of every action
+14. Use any db and write backend API to complete all tasks.
